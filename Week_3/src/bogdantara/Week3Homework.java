@@ -6,7 +6,7 @@ import java.util.*;
 public class Week3Homework {
     Random r = new Random();
     Scanner input = new Scanner(System.in);
-    public static void main () {
+    public static void main(String[] args) {
 //~~~~~~~~~~~~~~~~~week's 1 homework~~~~~~~~~~~~~~~~~~~~
         Week3Homework rndbl = new Week3Homework();
         rndbl.randombool();
